@@ -10,6 +10,5 @@ public class Main3 {
 		Scanner scanner = new Scanner(System.in);
 		int x = scanner.nextInt();
 		System.out.println(x < 5 ? "little" : x > 10 ? "large" : "middle");
-	
 }
 }

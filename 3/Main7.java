@@ -8,7 +8,7 @@ public class Main7 {
 		int maxl=0;
 		int p=0;
 		for (int i=1; i<=100;i++){
-			if (maxl<prost(i)){
+			if (maxlpr<ost(i)){
 				maxl=prost(i);
 				p=i;
 
