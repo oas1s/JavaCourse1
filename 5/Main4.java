@@ -38,10 +38,10 @@ public class Main4 {
 				return middle;
 			}
 			else if (array[middle] < x){
-				l = middle;
+				l = middle + 1;
 			}
 			else{
-				r = middle;
+				r = middle - 1;
 			}
 		}
 		return -1;
