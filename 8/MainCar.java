@@ -4,5 +4,8 @@ public class MainCar {
                 450d,30,40);
         casualCar.beep();
         System.out.println(casualCar);
+        Car car1 = new CasualCar(1000d,
+                450d,30,40);
+        car1.beep();
     }
 }
