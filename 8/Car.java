@@ -17,4 +17,8 @@ public class Car {
     public void beep(){
         System.out.println("beep beep");
     }
+
+    public int countDistance(int duration){
+        return duration > 3 ? (duration-3)*speedAfter + 3*speedFirst3Minutes : duration*speedFirst3Minutes;
+    }
 }

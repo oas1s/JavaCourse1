@@ -7,5 +7,6 @@ public class MainCar {
         Car car1 = new CasualCar(1000d,
                 450d,30,40);
         car1.beep();
+        System.out.println(car1.countDistance(4));
     }
 }
