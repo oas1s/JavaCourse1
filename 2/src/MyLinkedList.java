@@ -14,4 +14,15 @@ public class MyLinkedList<T> {
         }
         return size;
     }
+
+    public boolean add(T elem){
+        Node<T> lastNode = firstNode;
+        for (Node<T> i = firstNode; i.getNext() != null ; i = i.getNext()) {
+            lastNode = i;
+        }
+        Node<T> newNode = new Node<>();
+        newNode.setValue(elem);
+        lastNode.setNext(newNode);
+        return true;
+    }
 }
