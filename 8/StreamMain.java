@@ -100,6 +100,9 @@ public class StreamMain {
         // create list of balances
         List<Integer> balances = users.stream().map(u -> u.balance).collect(Collectors.toList());
 
+        // limit
+        balances.stream().limit(5);
+
         //group
         Map<User.UserType,List<User>> userTypeListMap = users.stream()
                 .collect(Collectors.groupingBy(u -> u.userType));
