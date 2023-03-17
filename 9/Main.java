@@ -29,6 +29,11 @@ public class Main {
         }
 
         @Override
+        public boolean add(T t){
+            return false;
+        }
+
+        @Override
         public int size() {
             return 0;
         }
