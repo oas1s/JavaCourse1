@@ -1,7 +1,4 @@
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class StreamMain {
@@ -46,7 +43,7 @@ public class StreamMain {
     group
      */
     public static void main(String[] args) {
-        // Java 11
+        // Java 9
         List<User> users = List.of(
                 new User(User.UserType.VIP,"Kirill",10),
                 new User(User.UserType.USUAL, "Danil", 2),
