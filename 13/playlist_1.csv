@@ -1,0 +1,301 @@
+track_name;track_add_date;track_add_time;multiple_artists_bool;name_of_artists;album_name;album_release_date;album_release_date_precision;number_of_tracks_in_album;position_in_playlist;track_duration_ms;track_popularity;track_explicit;images_path;data_collection_date
+Flowers;2023-03-31;10:02:16;False;['Miley Cyrus'];Endless Summer Vacation;2023-03-10;day;13;1;200600;87;False;./images/flowers_miley_cyrus.jpg;2023-03-31
+Kill Bill;2023-03-31;10:02:16;False;['SZA'];SOS;2022-12-08;day;23;2;153946;94;False;./images/kill_bill_sza.jpg;2023-03-31
+TQG;2023-03-31;10:02:16;True;['KAROL G', 'Shakira'];MAÑANA SERÁ BONITO;2023-02-24;day;17;3;197933;97;True;./images/tqg_karol_g.jpg;2023-03-31
+BESO;2023-03-31;10:02:16;True;['ROSALÍA', 'Rauw Alejandro'];RR;2023-03-24;day;3;4;194543;87;False;./images/beso_rosala.jpg;2023-03-31
+Boy's a liar Pt. 2;2023-03-31;10:02:16;True;['PinkPantheress', 'Ice Spice'];Boy's a liar Pt. 2;2023-02-03;day;2;5;131013;97;False;./images/boys_a_liar_pt_2_pinkpantheress.jpg;2023-03-31
+Ella Baila Sola;2023-03-31;10:02:16;True;['Eslabon Armado', 'Peso Pluma'];Ella Baila Sola;2023-03-16;day;1;6;165671;90;False;./images/ella_baila_sola_eslabon_armado.jpg;2023-03-31
+Die For You (with Ariana Grande) - Remix;2023-03-31;10:02:16;True;['The Weeknd', 'Ariana Grande'];Starboy (Deluxe);2023-03-14;day;21;7;232857;81;False;./images/die_for_you_with_ariana_grande_remix_the_weeknd.jpg;2023-03-31
+As It Was;2023-03-31;10:02:16;False;['Harry Styles'];Harry's House;2022-05-20;day;13;8;167303;91;False;./images/as_it_was_harry_styles.jpg;2023-03-31
+La Bebe - Remix;2023-03-31;10:02:16;True;['Yng Lvcas', 'Peso Pluma'];La Bebe (Remix);2023-03-17;day;2;9;234352;86;True;./images/la_bebe_remix_yng_lvcas.jpg;2023-03-31
+Creepin' (with The Weeknd & 21 Savage);2023-03-31;10:02:16;True;['Metro Boomin', 'The Weeknd', '21 Savage'];HEROES & VILLAINS;2022-12-02;day;15;10;221520;96;True;./images/creepin_with_the_weeknd_21_savage_metro_boomin.jpg;2023-03-31
+Yandel 150;2023-03-31;10:02:16;True;['Yandel', 'Feid'];Resistencia;2023-01-13;day;17;11;216148;89;True;./images/yandel_150_yandel.jpg;2023-03-31
+Shakira: Bzrp Music Sessions, Vol. 53;2023-03-31;10:02:16;True;['Bizarrap', 'Shakira'];Shakira: Bzrp Music Sessions, Vol. 53;2023-01-11;day;1;12;214945;97;False;./images/shakira_bzrp_music_sessions_vol_53_bizarrap.jpg;2023-03-31
+Calm Down (with Selena Gomez);2023-03-31;10:02:16;True;['Rema', 'Selena Gomez'];Calm Down (with Selena Gomez);2022-08-25;day;1;13;239317;94;False;./images/calm_down_with_selena_gomez_rema.jpg;2023-03-31
+Coco Chanel;2023-03-31;10:02:16;True;['Eladio Carrion', 'Bad Bunny'];3MEN2 KBRN;2023-03-17;day;18;14;208125;88;True;./images/coco_chanel_eladio_carrion.jpg;2023-03-31
+Like Crazy;2023-03-31;10:02:16;False;['Jimin'];FACE;2023-03-24;day;6;15;212241;86;False;./images/like_crazy_jimin.jpg;2023-03-31
+Anti-Hero;2023-03-31;10:02:16;False;['Taylor Swift'];Midnights;2022-10-21;day;13;16;200690;93;False;./images/antihero_taylor_swift.jpg;2023-03-31
+All Of The Girls You Loved Before;2023-03-31;10:02:16;False;['Taylor Swift'];All Of The Girls You Loved Before;2019-08-23;day;1;17;221407;89;False;./images/all_of_the_girls_you_loved_before_taylor_swift.jpg;2023-03-31
+Unholy (feat. Kim Petras);2023-03-31;10:02:16;True;['Sam Smith', 'Kim Petras'];Gloria;2023-01-27;day;13;18;156943;86;False;./images/unholy_feat_kim_petras_sam_smith.jpg;2023-03-31
+Die For You;2023-03-31;10:02:16;False;['The Weeknd'];Starboy;2016-11-24;day;18;19;260253;90;False;./images/die_for_you_the_weeknd.jpg;2023-03-31
+I'm Good (Blue);2023-03-31;10:02:16;True;['David Guetta', 'Bebe Rexha'];I'm Good (Blue);2022-08-26;day;2;20;175238;94;True;./images/im_good_blue_david_guetta.jpg;2023-03-31
+La Bachata;2023-03-31;10:02:16;False;['Manuel Turizo'];2000;2023-03-17;day;15;21;162637;79;False;./images/la_bachata_manuel_turizo.jpg;2023-03-31
+Last Night;2023-03-31;10:02:16;False;['Morgan Wallen'];One Thing At A Time;2023-03-03;day;36;22;163854;86;True;./images/last_night_morgan_wallen.jpg;2023-03-31
+PRC;2023-03-31;10:02:16;True;['Peso Pluma', 'Natanael Cano'];PRC;2023-01-23;day;1;23;184066;92;True;./images/prc_peso_pluma.jpg;2023-03-31
+Hey Mor;2023-03-31;10:02:16;True;['Ozuna', 'Feid'];OzuTochi;2022-10-07;day;18;24;196600;91;False;./images/hey_mor_ozuna.jpg;2023-03-31
+Here With Me;2023-03-31;10:02:16;False;['d4vd'];Here With Me;2022-09-22;day;1;25;242484;93;False;./images/here_with_me_d4vd.jpg;2023-03-31
+AMG;2023-03-31;10:02:16;True;['Natanael Cano', 'Peso Pluma', 'Gabito Ballesteros'];AMG;2022-11-24;day;1;26;174942;92;True;./images/amg_natanael_cano.jpg;2023-03-31
+Until I Found You (with Em Beihold) - Em Beihold Version;2023-03-31;10:02:16;True;['Stephen Sanchez', 'Em Beihold'];Until I Found You (Em Beihold Version);2022-04-22;day;1;27;176440;92;False;./images/until_i_found_you_with_em_beihold_em_beihold_version_stephen_sanchez.jpg;2023-03-31
+Eyes Closed;2023-03-31;10:02:16;False;['Ed Sheeran'];Eyes Closed (Piano Version);2023-03-23;day;2;28;194848;58;False;./images/eyes_closed_ed_sheeran.jpg;2023-03-31
+Starboy;2023-03-31;10:02:16;True;['The Weeknd', 'Daft Punk'];Starboy;2016-11-25;day;18;29;230453;92;True;./images/starboy_the_weeknd.jpg;2023-03-31
+Another Love;2023-03-31;10:02:16;False;['Tom Odell'];Long Way Down;2013-06-17;day;10;30;244360;62;True;./images/another_love_tom_odell.jpg;2023-03-31
+I Wanna Be Yours;2023-03-31;10:02:16;False;['Arctic Monkeys'];AM;2013-09-09;day;12;31;183956;92;False;./images/i_wanna_be_yours_arctic_monkeys.jpg;2023-03-31
+Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-31;10:02:16;True;['Bizarrap', 'Arcángel'];Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-22;day;1;32;223019;85;False;./images/arcngel_bzrp_music_sessions_vol_54_bizarrap.jpg;2023-03-31
+golden hour;2023-03-31;10:02:16;False;['JVKE'];this is what ____ feels like (Vol. 1-4);2022-09-23;day;12;33;209259;89;False;./images/golden_hour_jvke.jpg;2023-03-31
+Quevedo: Bzrp Music Sessions, Vol. 52;2023-03-31;10:02:16;True;['Bizarrap', 'Quevedo'];Quevedo: Bzrp Music Sessions, Vol. 52;2022-07-06;day;1;34;198937;92;False;./images/quevedo_bzrp_music_sessions_vol_52_bizarrap.jpg;2023-03-31
+Escapism.;2023-03-31;10:02:16;True;['RAYE', '070 Shake'];My 21st Century Blues;2023-02-03;day;15;35;272373;81;True;./images/escapism_raye.jpg;2023-03-31
+Set Me Free Pt.2;2023-03-31;10:02:16;False;['Jimin'];Set Me Free Pt.2;2023-03-17;day;1;36;200929;89;True;./images/set_me_free_pt2_jimin.jpg;2023-03-31
+Cupid - Twin Ver.;2023-03-31;10:02:16;False;['FIFTY FIFTY'];The Beginning: Cupid;2023-02-24;day;3;37;174253;86;False;./images/cupid_twin_ver_fifty_fifty.jpg;2023-03-31
+I Ain't Worried;2023-03-31;10:02:16;False;['OneRepublic'];OneRepublic (Japan Paradise Tour Edition);2023-02-15;day;18;38;148120;51;False;./images/i_aint_worried_onerepublic.jpg;2023-03-31
+OMG;2023-03-31;10:02:16;False;['NewJeans'];NewJeans 'OMG';2023-01-02;day;2;39;212253;93;False;./images/omg_newjeans.jpg;2023-03-31
+Mockingbird;2023-03-31;10:02:16;False;['Eminem'];Encore (Deluxe Version);2004-11-12;day;23;40;250760;91;True;./images/mockingbird_eminem.jpg;2023-03-31
+Feliz Cumpleaños Ferxxo;2023-03-31;10:02:16;False;['Feid'];FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM;2022-09-14;day;15;41;155960;89;False;./images/feliz_cumpleaos_ferxxo_feid.jpg;2023-03-31
+Players;2023-03-31;10:02:16;False;['Coi Leray'];Players;2022-11-30;day;1;42;139560;92;True;./images/players_coi_leray.jpg;2023-03-31
+Shorty Party;2023-03-31;10:02:16;True;['Cartel De Santa', 'La Kelly'];Shorty Party;2023-03-04;day;1;43;265000;90;True;./images/shorty_party_cartel_de_santa.jpg;2023-03-31
+Rara Vez;2023-03-31;10:02:16;True;['Taiu', 'Milo j'];Rara Vez;2023-02-08;day;1;44;128677;89;False;./images/rara_vez_taiu.jpg;2023-03-31
+El Azul;2023-03-31;10:02:16;True;['Junior H', 'Peso Pluma'];El Azul;2023-02-10;day;1;45;187225;88;True;./images/el_azul_junior_h.jpg;2023-03-31
+La Jumpa;2023-03-31;10:02:16;True;['Arcángel', 'Bad Bunny'];Sr. Santos;2022-12-01;day;18;46;255693;87;True;./images/la_jumpa_arcngel.jpg;2023-03-31
+ceilings;2023-03-31;10:02:16;False;['Lizzy McAlpine'];five seconds flat;2022-04-08;day;14;47;182887;90;False;./images/ceilings_lizzy_mcalpine.jpg;2023-03-31
+Bones;2023-03-31;10:02:16;False;['Imagine Dragons'];Mercury - Acts 1 & 2;2022-07-01;day;32;48;165264;86;False;./images/bones_imagine_dragons.jpg;2023-03-31
+Snooze;2023-03-31;10:02:16;False;['SZA'];SOS;2022-12-09;day;23;49;201800;91;True;./images/snooze_sza.jpg;2023-03-31
+Like Crazy (English Version);2023-03-31;10:02:16;False;['Jimin'];FACE;2023-03-24;day;6;50;212253;84;False;./images/like_crazy_english_version_jimin.jpg;2023-03-31
+Flowers;2023-04-01;10:17:21;False;['Miley Cyrus'];Endless Summer Vacation;2023-03-10;day;13;1;200600;88;False;./images/flowers_miley_cyrus.jpg;2023-04-01
+TQG;2023-04-01;10:17:21;True;['KAROL G', 'Shakira'];MAÑANA SERÁ BONITO;2023-02-24;day;17;2;197933;97;True;./images/tqg_karol_g.jpg;2023-04-01
+Kill Bill;2023-04-01;10:17:21;False;['SZA'];SOS;2022-12-08;day;23;3;153946;95;False;./images/kill_bill_sza.jpg;2023-04-01
+BESO;2023-04-01;10:17:21;True;['ROSALÍA', 'Rauw Alejandro'];RR;2023-03-24;day;3;4;194543;88;False;./images/beso_rosala.jpg;2023-04-01
+Ella Baila Sola;2023-04-01;10:17:21;True;['Eslabon Armado', 'Peso Pluma'];Ella Baila Sola;2023-03-16;day;1;5;165671;91;False;./images/ella_baila_sola_eslabon_armado.jpg;2023-04-01
+FLOWER;2023-04-01;10:17:21;False;['JISOO'];ME;2023-03-31;day;2;6;173134;0;False;./images/flower_jisoo.jpg;2023-04-01
+Boy's a liar Pt. 2;2023-04-01;10:17:21;True;['PinkPantheress', 'Ice Spice'];Boy's a liar Pt. 2;2023-02-03;day;2;7;131013;97;False;./images/boys_a_liar_pt_2_pinkpantheress.jpg;2023-04-01
+As It Was;2023-04-01;10:17:21;False;['Harry Styles'];Harry's House;2022-05-20;day;13;8;167303;91;False;./images/as_it_was_harry_styles.jpg;2023-04-01
+Die For You (with Ariana Grande) - Remix;2023-04-01;10:17:21;True;['The Weeknd', 'Ariana Grande'];Starboy (Deluxe);2023-03-14;day;21;9;232857;81;False;./images/die_for_you_with_ariana_grande_remix_the_weeknd.jpg;2023-04-01
+La Bebe - Remix;2023-04-01;10:17:21;True;['Yng Lvcas', 'Peso Pluma'];La Bebe (Remix);2023-03-17;day;2;10;234352;87;True;./images/la_bebe_remix_yng_lvcas.jpg;2023-04-01
+Yandel 150;2023-04-01;10:17:21;True;['Yandel', 'Feid'];Resistencia;2023-01-13;day;17;11;216148;89;True;./images/yandel_150_yandel.jpg;2023-04-01
+Creepin' (with The Weeknd & 21 Savage);2023-04-01;10:17:21;True;['Metro Boomin', 'The Weeknd', '21 Savage'];HEROES & VILLAINS;2022-12-02;day;15;12;221520;96;True;./images/creepin_with_the_weeknd_21_savage_metro_boomin.jpg;2023-04-01
+Like Crazy;2023-04-01;10:17:21;False;['Jimin'];FACE;2023-03-24;day;6;13;212241;86;False;./images/like_crazy_jimin.jpg;2023-04-01
+Calm Down (with Selena Gomez);2023-04-01;10:17:21;True;['Rema', 'Selena Gomez'];Calm Down (with Selena Gomez);2022-08-25;day;1;14;239317;95;False;./images/calm_down_with_selena_gomez_rema.jpg;2023-04-01
+Shakira: Bzrp Music Sessions, Vol. 53;2023-04-01;10:17:21;True;['Bizarrap', 'Shakira'];Shakira: Bzrp Music Sessions, Vol. 53;2023-01-11;day;1;15;214945;97;False;./images/shakira_bzrp_music_sessions_vol_53_bizarrap.jpg;2023-04-01
+All Eyes On Me;2023-04-01;10:17:21;False;['JISOO'];ME;2023-03-31;day;2;16;163522;0;False;./images/all_eyes_on_me_jisoo.jpg;2023-04-01
+Anti-Hero;2023-04-01;10:17:21;False;['Taylor Swift'];Midnights;2022-10-21;day;13;17;200690;94;False;./images/antihero_taylor_swift.jpg;2023-04-01
+Unholy (feat. Kim Petras);2023-04-01;10:17:21;True;['Sam Smith', 'Kim Petras'];Gloria;2023-01-27;day;13;18;156943;86;False;./images/unholy_feat_kim_petras_sam_smith.jpg;2023-04-01
+I'm Good (Blue);2023-04-01;10:17:21;True;['David Guetta', 'Bebe Rexha'];I'm Good (Blue);2022-08-26;day;2;19;175238;94;True;./images/im_good_blue_david_guetta.jpg;2023-04-01
+PRC;2023-04-01;10:17:21;True;['Peso Pluma', 'Natanael Cano'];PRC;2023-01-23;day;1;20;184066;92;True;./images/prc_peso_pluma.jpg;2023-04-01
+DOGTOOTH;2023-04-01;10:17:21;False;['Tyler, The Creator'];CALL ME IF YOU GET LOST: The Estate Sale;2023-03-31;day;24;21;161041;0;True;./images/dogtooth_tyler_the_creator.jpg;2023-04-01
+La Bachata;2023-04-01;10:17:21;False;['Manuel Turizo'];2000;2023-03-17;day;15;22;162637;80;False;./images/la_bachata_manuel_turizo.jpg;2023-04-01
+Die For You;2023-04-01;10:17:21;False;['The Weeknd'];Starboy;2016-11-24;day;18;23;260253;90;False;./images/die_for_you_the_weeknd.jpg;2023-04-01
+AMG;2023-04-01;10:17:21;True;['Natanael Cano', 'Peso Pluma', 'Gabito Ballesteros'];AMG;2022-11-24;day;1;24;174942;92;True;./images/amg_natanael_cano.jpg;2023-04-01
+Last Night;2023-04-01;10:17:21;False;['Morgan Wallen'];One Thing At A Time;2023-03-03;day;36;25;163854;86;True;./images/last_night_morgan_wallen.jpg;2023-04-01
+Hey Mor;2023-04-01;10:17:21;True;['Ozuna', 'Feid'];OzuTochi;2022-10-07;day;18;26;196600;91;False;./images/hey_mor_ozuna.jpg;2023-04-01
+Cupid - Twin Ver.;2023-04-01;10:17:21;False;['FIFTY FIFTY'];The Beginning: Cupid;2023-02-24;day;3;27;174253;86;False;./images/cupid_twin_ver_fifty_fifty.jpg;2023-04-01
+Like Crazy (English Version);2023-04-01;10:17:21;False;['Jimin'];FACE;2023-03-24;day;6;28;212253;85;False;./images/like_crazy_english_version_jimin.jpg;2023-04-01
+Coco Chanel;2023-04-01;10:17:21;True;['Eladio Carrion', 'Bad Bunny'];3MEN2 KBRN;2023-03-17;day;18;29;208125;88;True;./images/coco_chanel_eladio_carrion.jpg;2023-04-01
+Arcángel: Bzrp Music Sessions, Vol. 54;2023-04-01;10:17:21;True;['Bizarrap', 'Arcángel'];Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-22;day;1;30;223019;85;False;./images/arcngel_bzrp_music_sessions_vol_54_bizarrap.jpg;2023-04-01
+Here With Me;2023-04-01;10:17:21;False;['d4vd'];Here With Me;2022-09-22;day;1;31;242484;93;False;./images/here_with_me_d4vd.jpg;2023-04-01
+Until I Found You (with Em Beihold) - Em Beihold Version;2023-04-01;10:17:21;True;['Stephen Sanchez', 'Em Beihold'];Until I Found You (Em Beihold Version);2022-04-22;day;1;32;176440;92;False;./images/until_i_found_you_with_em_beihold_em_beihold_version_stephen_sanchez.jpg;2023-04-01
+VOID;2023-04-01;10:17:21;False;['Melanie Martinez'];PORTALS;2023-03-31;day;13;33;247875;41;False;./images/void_melanie_martinez.jpg;2023-04-01
+Quevedo: Bzrp Music Sessions, Vol. 52;2023-04-01;10:17:21;True;['Bizarrap', 'Quevedo'];Quevedo: Bzrp Music Sessions, Vol. 52;2022-07-06;day;1;34;198937;93;False;./images/quevedo_bzrp_music_sessions_vol_52_bizarrap.jpg;2023-04-01
+Another Love;2023-04-01;10:17:21;False;['Tom Odell'];Long Way Down;2013-06-17;day;10;35;244360;62;True;./images/another_love_tom_odell.jpg;2023-04-01
+Starboy;2023-04-01;10:17:21;True;['The Weeknd', 'Daft Punk'];Starboy;2016-11-25;day;18;36;230453;92;True;./images/starboy_the_weeknd.jpg;2023-04-01
+Escapism.;2023-04-01;10:17:21;True;['RAYE', '070 Shake'];My 21st Century Blues;2023-02-03;day;15;37;272373;81;True;./images/escapism_raye.jpg;2023-04-01
+I Ain't Worried;2023-04-01;10:17:21;False;['OneRepublic'];OneRepublic (Japan Paradise Tour Edition);2023-02-15;day;18;38;148120;51;False;./images/i_aint_worried_onerepublic.jpg;2023-04-01
+golden hour;2023-04-01;10:17:21;False;['JVKE'];this is what ____ feels like (Vol. 1-4);2022-09-23;day;12;39;209259;90;False;./images/golden_hour_jvke.jpg;2023-04-01
+I Wanna Be Yours;2023-04-01;10:17:21;False;['Arctic Monkeys'];AM;2013-09-09;day;12;40;183956;92;False;./images/i_wanna_be_yours_arctic_monkeys.jpg;2023-04-01
+El Azul;2023-04-01;10:17:21;True;['Junior H', 'Peso Pluma'];El Azul;2023-02-10;day;1;41;187225;88;True;./images/el_azul_junior_h.jpg;2023-04-01
+Mockingbird;2023-04-01;10:17:21;False;['Eminem'];Encore (Deluxe Version);2004-11-12;day;23;42;250760;91;True;./images/mockingbird_eminem.jpg;2023-04-01
+Players;2023-04-01;10:17:21;False;['Coi Leray'];Players;2022-11-30;day;1;43;139560;92;True;./images/players_coi_leray.jpg;2023-04-01
+Set Me Free Pt.2;2023-04-01;10:17:21;False;['Jimin'];Set Me Free Pt.2;2023-03-17;day;1;44;200929;89;True;./images/set_me_free_pt2_jimin.jpg;2023-04-01
+Feliz Cumpleaños Ferxxo;2023-04-01;10:17:21;False;['Feid'];FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM;2022-09-14;day;15;45;155960;89;False;./images/feliz_cumpleaos_ferxxo_feid.jpg;2023-04-01
+Shorty Party;2023-04-01;10:17:21;True;['Cartel De Santa', 'La Kelly'];Shorty Party;2023-03-04;day;1;46;265000;90;True;./images/shorty_party_cartel_de_santa.jpg;2023-04-01
+Eyes Closed;2023-04-01;10:17:21;False;['Ed Sheeran'];Eyes Closed (Piano Version);2023-03-23;day;2;47;194848;61;False;./images/eyes_closed_ed_sheeran.jpg;2023-04-01
+La Jumpa;2023-04-01;10:17:21;True;['Arcángel', 'Bad Bunny'];Sr. Santos;2022-12-01;day;18;48;255693;87;True;./images/la_jumpa_arcngel.jpg;2023-04-01
+OMG;2023-04-01;10:17:21;False;['NewJeans'];NewJeans 'OMG';2023-01-02;day;2;49;212253;93;False;./images/omg_newjeans.jpg;2023-04-01
+Rara Vez;2023-04-01;10:17:21;True;['Taiu', 'Milo j'];Rara Vez;2023-02-08;day;1;50;128677;89;False;./images/rara_vez_taiu.jpg;2023-04-01
+Flowers;2023-04-02;09:59:23;False;['Miley Cyrus'];Endless Summer Vacation;2023-03-10;day;13;1;200600;88;False;./images/flowers_miley_cyrus.jpg;2023-04-02
+TQG;2023-04-02;09:59:23;True;['KAROL G', 'Shakira'];MAÑANA SERÁ BONITO;2023-02-24;day;17;2;197933;97;True;./images/tqg_karol_g.jpg;2023-04-02
+Ella Baila Sola;2023-04-02;09:59:23;True;['Eslabon Armado', 'Peso Pluma'];Ella Baila Sola;2023-03-16;day;1;3;165671;91;False;./images/ella_baila_sola_eslabon_armado.jpg;2023-04-02
+Kill Bill;2023-04-02;09:59:23;False;['SZA'];SOS;2022-12-08;day;23;4;153946;95;False;./images/kill_bill_sza.jpg;2023-04-02
+BESO;2023-04-02;09:59:23;True;['ROSALÍA', 'Rauw Alejandro'];RR;2023-03-24;day;3;5;194543;89;False;./images/beso_rosala.jpg;2023-04-02
+Boy's a liar Pt. 2;2023-04-02;09:59:23;True;['PinkPantheress', 'Ice Spice'];Boy's a liar Pt. 2;2023-02-03;day;2;6;131013;97;False;./images/boys_a_liar_pt_2_pinkpantheress.jpg;2023-04-02
+La Bebe - Remix;2023-04-02;09:59:23;True;['Yng Lvcas', 'Peso Pluma'];La Bebe (Remix);2023-03-17;day;2;7;234352;88;True;./images/la_bebe_remix_yng_lvcas.jpg;2023-04-02
+As It Was;2023-04-02;09:59:23;False;['Harry Styles'];Harry's House;2022-05-20;day;13;8;167303;91;False;./images/as_it_was_harry_styles.jpg;2023-04-02
+Die For You (with Ariana Grande) - Remix;2023-04-02;09:59:23;True;['The Weeknd', 'Ariana Grande'];Starboy (Deluxe);2023-03-14;day;21;9;232857;82;False;./images/die_for_you_with_ariana_grande_remix_the_weeknd.jpg;2023-04-02
+Yandel 150;2023-04-02;09:59:23;True;['Yandel', 'Feid'];Resistencia;2023-01-13;day;17;10;216148;89;True;./images/yandel_150_yandel.jpg;2023-04-02
+Shakira: Bzrp Music Sessions, Vol. 53;2023-04-02;09:59:23;True;['Bizarrap', 'Shakira'];Shakira: Bzrp Music Sessions, Vol. 53;2023-01-11;day;1;11;214945;97;False;./images/shakira_bzrp_music_sessions_vol_53_bizarrap.jpg;2023-04-02
+FLOWER;2023-04-02;09:59:23;False;['JISOO'];ME;2023-03-31;day;2;12;173134;73;False;./images/flower_jisoo.jpg;2023-04-02
+Creepin' (with The Weeknd & 21 Savage);2023-04-02;09:59:23;True;['Metro Boomin', 'The Weeknd', '21 Savage'];HEROES & VILLAINS;2022-12-02;day;15;13;221520;96;True;./images/creepin_with_the_weeknd_21_savage_metro_boomin.jpg;2023-04-02
+Calm Down (with Selena Gomez);2023-04-02;09:59:23;True;['Rema', 'Selena Gomez'];Calm Down (with Selena Gomez);2022-08-25;day;1;14;239317;95;False;./images/calm_down_with_selena_gomez_rema.jpg;2023-04-02
+Like Crazy;2023-04-02;09:59:23;False;['Jimin'];FACE;2023-03-24;day;6;15;212241;87;False;./images/like_crazy_jimin.jpg;2023-04-02
+PRC;2023-04-02;09:59:23;True;['Peso Pluma', 'Natanael Cano'];PRC;2023-01-23;day;1;16;184066;92;True;./images/prc_peso_pluma.jpg;2023-04-02
+AMG;2023-04-02;09:59:23;True;['Natanael Cano', 'Peso Pluma', 'Gabito Ballesteros'];AMG;2022-11-24;day;1;17;174942;92;True;./images/amg_natanael_cano.jpg;2023-04-02
+Anti-Hero;2023-04-02;09:59:23;False;['Taylor Swift'];Midnights;2022-10-21;day;13;18;200690;94;False;./images/antihero_taylor_swift.jpg;2023-04-02
+La Bachata;2023-04-02;09:59:23;False;['Manuel Turizo'];2000;2023-03-17;day;15;19;162637;80;False;./images/la_bachata_manuel_turizo.jpg;2023-04-02
+Unholy (feat. Kim Petras);2023-04-02;09:59:23;True;['Sam Smith', 'Kim Petras'];Gloria;2023-01-27;day;13;20;156943;86;False;./images/unholy_feat_kim_petras_sam_smith.jpg;2023-04-02
+Cupid - Twin Ver.;2023-04-02;09:59:23;False;['FIFTY FIFTY'];The Beginning: Cupid;2023-02-24;day;3;21;174253;12;False;./images/cupid_twin_ver_fifty_fifty.jpg;2023-04-02
+I'm Good (Blue);2023-04-02;09:59:23;True;['David Guetta', 'Bebe Rexha'];I'm Good (Blue);2022-08-26;day;2;22;175238;94;True;./images/im_good_blue_david_guetta.jpg;2023-04-02
+Coco Chanel;2023-04-02;09:59:23;True;['Eladio Carrion', 'Bad Bunny'];3MEN2 KBRN;2023-03-17;day;18;23;208125;89;True;./images/coco_chanel_eladio_carrion.jpg;2023-04-02
+Die For You;2023-04-02;09:59:23;False;['The Weeknd'];Starboy;2016-11-24;day;18;24;260253;90;False;./images/die_for_you_the_weeknd.jpg;2023-04-02
+Hey Mor;2023-04-02;09:59:23;True;['Ozuna', 'Feid'];OzuTochi;2022-10-07;day;18;25;196600;91;False;./images/hey_mor_ozuna.jpg;2023-04-02
+Last Night;2023-04-02;09:59:23;False;['Morgan Wallen'];One Thing At A Time;2023-03-03;day;36;26;163854;86;True;./images/last_night_morgan_wallen.jpg;2023-04-02
+Quevedo: Bzrp Music Sessions, Vol. 52;2023-04-02;09:59:23;True;['Bizarrap', 'Quevedo'];Quevedo: Bzrp Music Sessions, Vol. 52;2022-07-06;day;1;27;198937;93;False;./images/quevedo_bzrp_music_sessions_vol_52_bizarrap.jpg;2023-04-02
+Here With Me;2023-04-02;09:59:23;False;['d4vd'];Here With Me;2022-09-22;day;1;28;242484;93;False;./images/here_with_me_d4vd.jpg;2023-04-02
+El Azul;2023-04-02;09:59:23;True;['Junior H', 'Peso Pluma'];El Azul;2023-02-10;day;1;29;187225;88;True;./images/el_azul_junior_h.jpg;2023-04-02
+Arcángel: Bzrp Music Sessions, Vol. 54;2023-04-02;09:59:23;True;['Bizarrap', 'Arcángel'];Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-22;day;1;30;223019;86;False;./images/arcngel_bzrp_music_sessions_vol_54_bizarrap.jpg;2023-04-02
+Until I Found You (with Em Beihold) - Em Beihold Version;2023-04-02;09:59:23;True;['Stephen Sanchez', 'Em Beihold'];Until I Found You (Em Beihold Version);2022-04-22;day;1;31;176440;93;False;./images/until_i_found_you_with_em_beihold_em_beihold_version_stephen_sanchez.jpg;2023-04-02
+Like Crazy (English Version);2023-04-02;09:59:23;False;['Jimin'];FACE;2023-03-24;day;6;32;212253;86;False;./images/like_crazy_english_version_jimin.jpg;2023-04-02
+I Ain't Worried;2023-04-02;09:59:23;False;['OneRepublic'];OneRepublic (Japan Paradise Tour Edition);2023-02-15;day;18;33;148120;52;False;./images/i_aint_worried_onerepublic.jpg;2023-04-02
+Starboy;2023-04-02;09:59:23;True;['The Weeknd', 'Daft Punk'];Starboy;2016-11-25;day;18;34;230453;92;True;./images/starboy_the_weeknd.jpg;2023-04-02
+I Wanna Be Yours;2023-04-02;09:59:23;False;['Arctic Monkeys'];AM;2013-09-09;day;12;35;183956;92;False;./images/i_wanna_be_yours_arctic_monkeys.jpg;2023-04-02
+Escapism.;2023-04-02;09:59:23;True;['RAYE', '070 Shake'];My 21st Century Blues;2023-02-03;day;15;36;272373;81;True;./images/escapism_raye.jpg;2023-04-02
+Another Love;2023-04-02;09:59:23;False;['Tom Odell'];Long Way Down;2013-06-17;day;10;37;244360;62;True;./images/another_love_tom_odell.jpg;2023-04-02
+golden hour;2023-04-02;09:59:23;False;['JVKE'];this is what ____ feels like (Vol. 1-4);2022-09-23;day;12;38;209259;90;False;./images/golden_hour_jvke.jpg;2023-04-02
+Feliz Cumpleaños Ferxxo;2023-04-02;09:59:23;False;['Feid'];FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM;2022-09-14;day;15;39;155960;89;False;./images/feliz_cumpleaos_ferxxo_feid.jpg;2023-04-02
+La Jumpa;2023-04-02;09:59:23;True;['Arcángel', 'Bad Bunny'];Sr. Santos;2022-12-01;day;18;40;255693;87;True;./images/la_jumpa_arcngel.jpg;2023-04-02
+OMG;2023-04-02;09:59:23;False;['NewJeans'];NewJeans 'OMG';2023-01-02;day;2;41;212253;93;False;./images/omg_newjeans.jpg;2023-04-02
+Mockingbird;2023-04-02;09:59:23;False;['Eminem'];Encore (Deluxe Version);2004-11-12;day;23;42;250760;91;True;./images/mockingbird_eminem.jpg;2023-04-02
+Players;2023-04-02;09:59:23;False;['Coi Leray'];Players;2022-11-30;day;1;43;139560;92;True;./images/players_coi_leray.jpg;2023-04-02
+Rara Vez;2023-04-02;09:59:23;True;['Taiu', 'Milo j'];Rara Vez;2023-02-08;day;1;44;128677;89;False;./images/rara_vez_taiu.jpg;2023-04-02
+El Gordo Trae El Mando;2023-04-02;09:59:23;False;['Chino Pacas'];El Gordo Trae El Mando;2023-01-27;day;1;45;112087;89;True;./images/el_gordo_trae_el_mando_chino_pacas.jpg;2023-04-02
+Ch y la Pizza;2023-04-02;09:59:23;True;['Fuerza Regida', 'Natanael Cano'];Pa Que Hablen;2022-12-30;day;13;46;136913;83;True;./images/ch_y_la_pizza_fuerza_regida.jpg;2023-04-02
+Shorty Party;2023-04-02;09:59:23;True;['Cartel De Santa', 'La Kelly'];Shorty Party;2023-03-04;day;1;47;265000;90;True;./images/shorty_party_cartel_de_santa.jpg;2023-04-02
+CHORRITO PA LAS ANIMAS;2023-04-02;09:59:23;False;['Feid'];SIXDO;2022-12-02;day;6;48;168133;91;True;./images/chorrito_pa_las_animas_feid.jpg;2023-04-02
+Fin de Semana;2023-04-02;09:59:23;True;['Oscar Maydon', 'Junior H'];Fin de Semana;2023-01-13;day;1;49;224920;90;False;./images/fin_de_semana_oscar_maydon.jpg;2023-04-02
+Me Porto Bonito;2023-04-02;09:59:23;True;['Bad Bunny', 'Chencho Corleone'];Un Verano Sin Ti;2022-05-06;day;23;50;178567;91;True;./images/me_porto_bonito_bad_bunny.jpg;2023-04-02
+Flowers;2023-04-03;09:54:28;False;['Miley Cyrus'];Endless Summer Vacation;2023-03-10;day;13;1;200600;88;False;./images/flowers_miley_cyrus.jpg;2023-04-03
+Ella Baila Sola;2023-04-03;09:54:28;True;['Eslabon Armado', 'Peso Pluma'];Ella Baila Sola;2023-03-16;day;1;2;165671;92;False;./images/ella_baila_sola_eslabon_armado.jpg;2023-04-03
+Kill Bill;2023-04-03;09:54:28;False;['SZA'];SOS;2022-12-08;day;23;3;153946;95;False;./images/kill_bill_sza.jpg;2023-04-03
+TQG;2023-04-03;09:54:28;True;['KAROL G', 'Shakira'];MAÑANA SERÁ BONITO;2023-02-24;day;17;4;197933;97;True;./images/tqg_karol_g.jpg;2023-04-03
+BESO;2023-04-03;09:54:28;True;['ROSALÍA', 'Rauw Alejandro'];RR;2023-03-24;day;3;5;194543;90;False;./images/beso_rosala.jpg;2023-04-03
+Boy's a liar Pt. 2;2023-04-03;09:54:28;True;['PinkPantheress', 'Ice Spice'];Boy's a liar Pt. 2;2023-02-03;day;2;6;131013;97;False;./images/boys_a_liar_pt_2_pinkpantheress.jpg;2023-04-03
+La Bebe - Remix;2023-04-03;09:54:28;True;['Yng Lvcas', 'Peso Pluma'];La Bebe (Remix);2023-03-17;day;2;7;234352;89;True;./images/la_bebe_remix_yng_lvcas.jpg;2023-04-03
+As It Was;2023-04-03;09:54:28;False;['Harry Styles'];Harry's House;2022-05-20;day;13;8;167303;91;False;./images/as_it_was_harry_styles.jpg;2023-04-03
+Die For You (with Ariana Grande) - Remix;2023-04-03;09:54:28;True;['The Weeknd', 'Ariana Grande'];Starboy (Deluxe);2023-03-14;day;21;9;232857;82;False;./images/die_for_you_with_ariana_grande_remix_the_weeknd.jpg;2023-04-03
+FLOWER;2023-04-03;09:54:28;False;['JISOO'];ME;2023-03-31;day;2;10;173134;76;False;./images/flower_jisoo.jpg;2023-04-03
+Creepin' (with The Weeknd & 21 Savage);2023-04-03;09:54:28;True;['Metro Boomin', 'The Weeknd', '21 Savage'];HEROES & VILLAINS;2022-12-02;day;15;11;221520;96;True;./images/creepin_with_the_weeknd_21_savage_metro_boomin.jpg;2023-04-03
+Yandel 150;2023-04-03;09:54:28;True;['Yandel', 'Feid'];Resistencia;2023-01-13;day;17;12;216148;89;True;./images/yandel_150_yandel.jpg;2023-04-03
+Shakira: Bzrp Music Sessions, Vol. 53;2023-04-03;09:54:28;True;['Bizarrap', 'Shakira'];Shakira: Bzrp Music Sessions, Vol. 53;2023-01-11;day;1;13;214945;97;False;./images/shakira_bzrp_music_sessions_vol_53_bizarrap.jpg;2023-04-03
+Calm Down (with Selena Gomez);2023-04-03;09:54:28;True;['Rema', 'Selena Gomez'];Calm Down (with Selena Gomez);2022-08-25;day;1;14;239317;95;False;./images/calm_down_with_selena_gomez_rema.jpg;2023-04-03
+Like Crazy;2023-04-03;09:54:28;False;['Jimin'];FACE;2023-03-24;day;6;15;212241;88;False;./images/like_crazy_jimin.jpg;2023-04-03
+Cupid - Twin Ver.;2023-04-03;09:54:28;False;['FIFTY FIFTY'];The Beginning: Cupid;2023-02-24;day;3;16;174253;31;False;./images/cupid_twin_ver_fifty_fifty.jpg;2023-04-03
+PRC;2023-04-03;09:54:28;True;['Peso Pluma', 'Natanael Cano'];PRC;2023-01-23;day;1;17;184066;92;True;./images/prc_peso_pluma.jpg;2023-04-03
+AMG;2023-04-03;09:54:28;True;['Natanael Cano', 'Peso Pluma', 'Gabito Ballesteros'];AMG;2022-11-24;day;1;18;174942;92;True;./images/amg_natanael_cano.jpg;2023-04-03
+Anti-Hero;2023-04-03;09:54:28;False;['Taylor Swift'];Midnights;2022-10-21;day;13;19;200690;94;False;./images/antihero_taylor_swift.jpg;2023-04-03
+Die For You;2023-04-03;09:54:28;False;['The Weeknd'];Starboy;2016-11-24;day;18;20;260253;90;False;./images/die_for_you_the_weeknd.jpg;2023-04-03
+Unholy (feat. Kim Petras);2023-04-03;09:54:28;True;['Sam Smith', 'Kim Petras'];Gloria;2023-01-27;day;13;21;156943;86;False;./images/unholy_feat_kim_petras_sam_smith.jpg;2023-04-03
+Like Crazy (English Version);2023-04-03;09:54:28;False;['Jimin'];FACE;2023-03-24;day;6;22;212253;87;False;./images/like_crazy_english_version_jimin.jpg;2023-04-03
+Last Night;2023-04-03;09:54:28;False;['Morgan Wallen'];One Thing At A Time;2023-03-03;day;36;23;163854;87;True;./images/last_night_morgan_wallen.jpg;2023-04-03
+La Bachata;2023-04-03;09:54:28;False;['Manuel Turizo'];2000;2023-03-17;day;15;24;162637;81;False;./images/la_bachata_manuel_turizo.jpg;2023-04-03
+Here With Me;2023-04-03;09:54:28;False;['d4vd'];Here With Me;2022-09-22;day;1;25;242484;94;False;./images/here_with_me_d4vd.jpg;2023-04-03
+I'm Good (Blue);2023-04-03;09:54:28;True;['David Guetta', 'Bebe Rexha'];I'm Good (Blue);2022-08-26;day;2;26;175238;94;True;./images/im_good_blue_david_guetta.jpg;2023-04-03
+Coco Chanel;2023-04-03;09:54:28;True;['Eladio Carrion', 'Bad Bunny'];3MEN2 KBRN;2023-03-17;day;18;27;208125;89;True;./images/coco_chanel_eladio_carrion.jpg;2023-04-03
+Hey Mor;2023-04-03;09:54:28;True;['Ozuna', 'Feid'];OzuTochi;2022-10-07;day;18;28;196600;91;False;./images/hey_mor_ozuna.jpg;2023-04-03
+El Azul;2023-04-03;09:54:28;True;['Junior H', 'Peso Pluma'];El Azul;2023-02-10;day;1;29;187225;89;True;./images/el_azul_junior_h.jpg;2023-04-03
+I Wanna Be Yours;2023-04-03;09:54:28;False;['Arctic Monkeys'];AM;2013-09-09;day;12;30;183956;92;False;./images/i_wanna_be_yours_arctic_monkeys.jpg;2023-04-03
+Until I Found You (with Em Beihold) - Em Beihold Version;2023-04-03;09:54:28;True;['Stephen Sanchez', 'Em Beihold'];Until I Found You (Em Beihold Version);2022-04-22;day;1;31;176440;93;False;./images/until_i_found_you_with_em_beihold_em_beihold_version_stephen_sanchez.jpg;2023-04-03
+golden hour;2023-04-03;09:54:28;False;['JVKE'];this is what ____ feels like (Vol. 1-4);2022-09-23;day;12;32;209259;90;False;./images/golden_hour_jvke.jpg;2023-04-03
+Starboy;2023-04-03;09:54:28;True;['The Weeknd', 'Daft Punk'];Starboy;2016-11-25;day;18;33;230453;92;True;./images/starboy_the_weeknd.jpg;2023-04-03
+Another Love;2023-04-03;09:54:28;False;['Tom Odell'];Long Way Down;2013-06-17;day;10;34;244360;62;True;./images/another_love_tom_odell.jpg;2023-04-03
+OMG;2023-04-03;09:54:28;False;['NewJeans'];NewJeans 'OMG';2023-01-02;day;2;35;212253;93;False;./images/omg_newjeans.jpg;2023-04-03
+Quevedo: Bzrp Music Sessions, Vol. 52;2023-04-03;09:54:28;True;['Bizarrap', 'Quevedo'];Quevedo: Bzrp Music Sessions, Vol. 52;2022-07-06;day;1;36;198937;93;False;./images/quevedo_bzrp_music_sessions_vol_52_bizarrap.jpg;2023-04-03
+I Ain't Worried;2023-04-03;09:54:28;False;['OneRepublic'];OneRepublic (Japan Paradise Tour Edition);2023-02-15;day;18;37;148120;52;False;./images/i_aint_worried_onerepublic.jpg;2023-04-03
+Escapism.;2023-04-03;09:54:28;True;['RAYE', '070 Shake'];My 21st Century Blues;2023-02-03;day;15;38;272373;81;True;./images/escapism_raye.jpg;2023-04-03
+Arcángel: Bzrp Music Sessions, Vol. 54;2023-04-03;09:54:28;True;['Bizarrap', 'Arcángel'];Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-22;day;1;39;223019;87;False;./images/arcngel_bzrp_music_sessions_vol_54_bizarrap.jpg;2023-04-03
+Players;2023-04-03;09:54:28;False;['Coi Leray'];Players;2022-11-30;day;1;40;139560;92;True;./images/players_coi_leray.jpg;2023-04-03
+Mockingbird;2023-04-03;09:54:28;False;['Eminem'];Encore (Deluxe Version);2004-11-12;day;23;41;250760;91;True;./images/mockingbird_eminem.jpg;2023-04-03
+El Gordo Trae El Mando;2023-04-03;09:54:28;False;['Chino Pacas'];El Gordo Trae El Mando;2023-01-27;day;1;42;112087;89;True;./images/el_gordo_trae_el_mando_chino_pacas.jpg;2023-04-03
+Feliz Cumpleaños Ferxxo;2023-04-03;09:54:28;False;['Feid'];FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM;2022-09-14;day;15;43;155960;89;False;./images/feliz_cumpleaos_ferxxo_feid.jpg;2023-04-03
+La Jumpa;2023-04-03;09:54:28;True;['Arcángel', 'Bad Bunny'];Sr. Santos;2022-12-01;day;18;44;255693;87;True;./images/la_jumpa_arcngel.jpg;2023-04-03
+Ch y la Pizza;2023-04-03;09:54:28;True;['Fuerza Regida', 'Natanael Cano'];Pa Que Hablen;2022-12-30;day;13;45;136913;83;True;./images/ch_y_la_pizza_fuerza_regida.jpg;2023-04-03
+Rara Vez;2023-04-03;09:54:28;True;['Taiu', 'Milo j'];Rara Vez;2023-02-08;day;1;46;128677;89;False;./images/rara_vez_taiu.jpg;2023-04-03
+Set Me Free Pt.2;2023-04-03;09:54:28;False;['Jimin'];Set Me Free Pt.2;2023-03-17;day;1;47;200929;89;True;./images/set_me_free_pt2_jimin.jpg;2023-04-03
+Snooze;2023-04-03;09:54:28;False;['SZA'];SOS;2022-12-09;day;23;48;201800;91;True;./images/snooze_sza.jpg;2023-04-03
+Bones;2023-04-03;09:54:28;False;['Imagine Dragons'];Mercury - Acts 1 & 2;2022-07-01;day;32;49;165264;86;False;./images/bones_imagine_dragons.jpg;2023-04-03
+Fin de Semana;2023-04-03;09:54:28;True;['Oscar Maydon', 'Junior H'];Fin de Semana;2023-01-13;day;1;50;224920;90;False;./images/fin_de_semana_oscar_maydon.jpg;2023-04-03
+Flowers;2023-04-04;09:55:43;False;['Miley Cyrus'];Endless Summer Vacation;2023-03-10;day;13;1;200600;89;False;./images/flowers_miley_cyrus.jpg;2023-04-04
+Kill Bill;2023-04-04;09:55:43;False;['SZA'];SOS;2022-12-08;day;23;2;153946;95;False;./images/kill_bill_sza.jpg;2023-04-04
+Ella Baila Sola;2023-04-04;09:55:43;True;['Eslabon Armado', 'Peso Pluma'];Ella Baila Sola;2023-03-16;day;1;3;165671;92;False;./images/ella_baila_sola_eslabon_armado.jpg;2023-04-04
+TQG;2023-04-04;09:55:43;True;['KAROL G', 'Shakira'];MAÑANA SERÁ BONITO;2023-02-24;day;17;4;197933;97;True;./images/tqg_karol_g.jpg;2023-04-04
+BESO;2023-04-04;09:55:43;True;['ROSALÍA', 'Rauw Alejandro'];RR;2023-03-24;day;3;5;194543;90;False;./images/beso_rosala.jpg;2023-04-04
+Boy's a liar Pt. 2;2023-04-04;09:55:43;True;['PinkPantheress', 'Ice Spice'];Boy's a liar Pt. 2;2023-02-03;day;2;6;131013;97;False;./images/boys_a_liar_pt_2_pinkpantheress.jpg;2023-04-04
+As It Was;2023-04-04;09:55:43;False;['Harry Styles'];Harry's House;2022-05-20;day;13;7;167303;92;False;./images/as_it_was_harry_styles.jpg;2023-04-04
+Die For You (with Ariana Grande) - Remix;2023-04-04;09:55:43;True;['The Weeknd', 'Ariana Grande'];Starboy (Deluxe);2023-03-14;day;21;8;232857;83;False;./images/die_for_you_with_ariana_grande_remix_the_weeknd.jpg;2023-04-04
+La Bebe - Remix;2023-04-04;09:55:43;True;['Yng Lvcas', 'Peso Pluma'];La Bebe (Remix);2023-03-17;day;2;9;234352;89;True;./images/la_bebe_remix_yng_lvcas.jpg;2023-04-04
+Creepin' (with The Weeknd & 21 Savage);2023-04-04;09:55:43;True;['Metro Boomin', 'The Weeknd', '21 Savage'];HEROES & VILLAINS;2022-12-02;day;15;10;221520;96;True;./images/creepin_with_the_weeknd_21_savage_metro_boomin.jpg;2023-04-04
+FLOWER;2023-04-04;09:55:43;False;['JISOO'];ME;2023-03-31;day;2;11;173134;78;False;./images/flower_jisoo.jpg;2023-04-04
+Calm Down (with Selena Gomez);2023-04-04;09:55:43;True;['Rema', 'Selena Gomez'];Calm Down (with Selena Gomez);2022-08-25;day;1;12;239317;95;False;./images/calm_down_with_selena_gomez_rema.jpg;2023-04-04
+Like Crazy;2023-04-04;09:55:43;False;['Jimin'];FACE;2023-03-24;day;6;13;212241;88;False;./images/like_crazy_jimin.jpg;2023-04-04
+Yandel 150;2023-04-04;09:55:43;True;['Yandel', 'Feid'];Resistencia;2023-01-13;day;17;14;216148;89;True;./images/yandel_150_yandel.jpg;2023-04-04
+Shakira: Bzrp Music Sessions, Vol. 53;2023-04-04;09:55:43;True;['Bizarrap', 'Shakira'];Shakira: Bzrp Music Sessions, Vol. 53;2023-01-11;day;1;15;214945;97;False;./images/shakira_bzrp_music_sessions_vol_53_bizarrap.jpg;2023-04-04
+Anti-Hero;2023-04-04;09:55:43;False;['Taylor Swift'];Midnights;2022-10-21;day;13;16;200690;94;False;./images/antihero_taylor_swift.jpg;2023-04-04
+Die For You;2023-04-04;09:55:43;False;['The Weeknd'];Starboy;2016-11-24;day;18;17;260253;90;False;./images/die_for_you_the_weeknd.jpg;2023-04-04
+Unholy (feat. Kim Petras);2023-04-04;09:55:43;True;['Sam Smith', 'Kim Petras'];Gloria;2023-01-27;day;13;18;156943;86;False;./images/unholy_feat_kim_petras_sam_smith.jpg;2023-04-04
+PRC;2023-04-04;09:55:43;True;['Peso Pluma', 'Natanael Cano'];PRC;2023-01-23;day;1;19;184066;93;True;./images/prc_peso_pluma.jpg;2023-04-04
+I'm Good (Blue);2023-04-04;09:55:43;True;['David Guetta', 'Bebe Rexha'];I'm Good (Blue);2022-08-26;day;2;20;175238;94;True;./images/im_good_blue_david_guetta.jpg;2023-04-04
+Last Night;2023-04-04;09:55:43;False;['Morgan Wallen'];One Thing At A Time;2023-03-03;day;36;21;163854;87;True;./images/last_night_morgan_wallen.jpg;2023-04-04
+AMG;2023-04-04;09:55:43;True;['Natanael Cano', 'Peso Pluma', 'Gabito Ballesteros'];AMG;2022-11-24;day;1;22;174942;92;True;./images/amg_natanael_cano.jpg;2023-04-04
+Here With Me;2023-04-04;09:55:43;False;['d4vd'];Here With Me;2022-09-22;day;1;23;242484;94;False;./images/here_with_me_d4vd.jpg;2023-04-04
+La Bachata;2023-04-04;09:55:43;False;['Manuel Turizo'];2000;2023-03-17;day;15;24;162637;81;False;./images/la_bachata_manuel_turizo.jpg;2023-04-04
+Cupid - Twin Ver.;2023-04-04;09:55:43;False;['FIFTY FIFTY'];The Beginning: Cupid;2023-02-24;day;3;25;174253;48;False;./images/cupid_twin_ver_fifty_fifty.jpg;2023-04-04
+Coco Chanel;2023-04-04;09:55:43;True;['Eladio Carrion', 'Bad Bunny'];3MEN2 KBRN;2023-03-17;day;18;26;208125;90;True;./images/coco_chanel_eladio_carrion.jpg;2023-04-04
+Until I Found You (with Em Beihold) - Em Beihold Version;2023-04-04;09:55:43;True;['Stephen Sanchez', 'Em Beihold'];Until I Found You (Em Beihold Version);2022-04-22;day;1;27;176440;93;False;./images/until_i_found_you_with_em_beihold_em_beihold_version_stephen_sanchez.jpg;2023-04-04
+Hey Mor;2023-04-04;09:55:43;True;['Ozuna', 'Feid'];OzuTochi;2022-10-07;day;18;28;196600;91;False;./images/hey_mor_ozuna.jpg;2023-04-04
+Like Crazy (English Version);2023-04-04;09:55:43;False;['Jimin'];FACE;2023-03-24;day;6;29;212253;87;False;./images/like_crazy_english_version_jimin.jpg;2023-04-04
+I Wanna Be Yours;2023-04-04;09:55:43;False;['Arctic Monkeys'];AM;2013-09-09;day;12;30;183956;92;False;./images/i_wanna_be_yours_arctic_monkeys.jpg;2023-04-04
+Another Love;2023-04-04;09:55:43;False;['Tom Odell'];Long Way Down;2013-06-17;day;10;31;244360;62;True;./images/another_love_tom_odell.jpg;2023-04-04
+Starboy;2023-04-04;09:55:43;True;['The Weeknd', 'Daft Punk'];Starboy;2016-11-25;day;18;32;230453;92;True;./images/starboy_the_weeknd.jpg;2023-04-04
+golden hour;2023-04-04;09:55:43;False;['JVKE'];this is what ____ feels like (Vol. 1-4);2022-09-23;day;12;33;209259;90;False;./images/golden_hour_jvke.jpg;2023-04-04
+Escapism.;2023-04-04;09:55:43;True;['RAYE', '070 Shake'];My 21st Century Blues;2023-02-03;day;15;34;272373;81;True;./images/escapism_raye.jpg;2023-04-04
+OMG;2023-04-04;09:55:43;False;['NewJeans'];NewJeans 'OMG';2023-01-02;day;2;35;212253;93;False;./images/omg_newjeans.jpg;2023-04-04
+I Ain't Worried;2023-04-04;09:55:43;False;['OneRepublic'];OneRepublic (Japan Paradise Tour Edition);2023-02-15;day;18;36;148120;52;False;./images/i_aint_worried_onerepublic.jpg;2023-04-04
+El Azul;2023-04-04;09:55:43;True;['Junior H', 'Peso Pluma'];El Azul;2023-02-10;day;1;37;187225;89;True;./images/el_azul_junior_h.jpg;2023-04-04
+Quevedo: Bzrp Music Sessions, Vol. 52;2023-04-04;09:55:43;True;['Bizarrap', 'Quevedo'];Quevedo: Bzrp Music Sessions, Vol. 52;2022-07-06;day;1;38;198937;93;False;./images/quevedo_bzrp_music_sessions_vol_52_bizarrap.jpg;2023-04-04
+Mockingbird;2023-04-04;09:55:43;False;['Eminem'];Encore (Deluxe Version);2004-11-12;day;23;39;250760;91;True;./images/mockingbird_eminem.jpg;2023-04-04
+Players;2023-04-04;09:55:43;False;['Coi Leray'];Players;2022-11-30;day;1;40;139560;92;True;./images/players_coi_leray.jpg;2023-04-04
+Set Me Free Pt.2;2023-04-04;09:55:43;False;['Jimin'];Set Me Free Pt.2;2023-03-17;day;1;41;200929;89;True;./images/set_me_free_pt2_jimin.jpg;2023-04-04
+ceilings;2023-04-04;09:55:43;False;['Lizzy McAlpine'];five seconds flat;2022-04-08;day;14;42;182887;91;False;./images/ceilings_lizzy_mcalpine.jpg;2023-04-04
+Rara Vez;2023-04-04;09:55:43;True;['Taiu', 'Milo j'];Rara Vez;2023-02-08;day;1;43;128677;90;False;./images/rara_vez_taiu.jpg;2023-04-04
+Feliz Cumpleaños Ferxxo;2023-04-04;09:55:43;False;['Feid'];FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM;2022-09-14;day;15;44;155960;89;False;./images/feliz_cumpleaos_ferxxo_feid.jpg;2023-04-04
+La Jumpa;2023-04-04;09:55:43;True;['Arcángel', 'Bad Bunny'];Sr. Santos;2022-12-01;day;18;45;255693;87;True;./images/la_jumpa_arcngel.jpg;2023-04-04
+Arcángel: Bzrp Music Sessions, Vol. 54;2023-04-04;09:55:43;True;['Bizarrap', 'Arcángel'];Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-22;day;1;46;223019;87;False;./images/arcngel_bzrp_music_sessions_vol_54_bizarrap.jpg;2023-04-04
+Snooze;2023-04-04;09:55:43;False;['SZA'];SOS;2022-12-09;day;23;47;201800;91;True;./images/snooze_sza.jpg;2023-04-04
+All Of The Girls You Loved Before;2023-04-04;09:55:43;False;['Taylor Swift'];All Of The Girls You Loved Before;2019-08-23;day;1;48;221407;90;False;./images/all_of_the_girls_you_loved_before_taylor_swift.jpg;2023-04-04
+Bones;2023-04-04;09:55:43;False;['Imagine Dragons'];Mercury - Acts 1 & 2;2022-07-01;day;32;49;165264;86;False;./images/bones_imagine_dragons.jpg;2023-04-04
+Eyes Closed;2023-04-04;09:55:43;False;['Ed Sheeran'];Eyes Closed (Piano Version);2023-03-23;day;2;50;194848;67;False;./images/eyes_closed_ed_sheeran.jpg;2023-04-04
+Flowers;2023-04-05;09:37:18;False;['Miley Cyrus'];Endless Summer Vacation;2023-03-10;day;13;1;200600;89;False;./images/flowers_miley_cyrus.jpg;2023-04-05
+Kill Bill;2023-04-05;09:37:18;False;['SZA'];SOS;2022-12-08;day;23;2;153946;95;False;./images/kill_bill_sza.jpg;2023-04-05
+Ella Baila Sola;2023-04-05;09:37:18;True;['Eslabon Armado', 'Peso Pluma'];Ella Baila Sola;2023-03-16;day;1;3;165671;93;False;./images/ella_baila_sola_eslabon_armado.jpg;2023-04-05
+TQG;2023-04-05;09:37:18;True;['KAROL G', 'Shakira'];MAÑANA SERÁ BONITO;2023-02-24;day;17;4;197933;97;True;./images/tqg_karol_g.jpg;2023-04-05
+BESO;2023-04-05;09:37:18;True;['ROSALÍA', 'Rauw Alejandro'];RR;2023-03-24;day;3;5;194543;91;False;./images/beso_rosala.jpg;2023-04-05
+Boy's a liar Pt. 2;2023-04-05;09:37:18;True;['PinkPantheress', 'Ice Spice'];Boy's a liar Pt. 2;2023-02-03;day;2;6;131013;97;False;./images/boys_a_liar_pt_2_pinkpantheress.jpg;2023-04-05
+As It Was;2023-04-05;09:37:18;False;['Harry Styles'];Harry's House;2022-05-20;day;13;7;167303;92;False;./images/as_it_was_harry_styles.jpg;2023-04-05
+Die For You (with Ariana Grande) - Remix;2023-04-05;09:37:18;True;['The Weeknd', 'Ariana Grande'];Starboy (Deluxe);2023-03-14;day;21;8;232857;83;False;./images/die_for_you_with_ariana_grande_remix_the_weeknd.jpg;2023-04-05
+La Bebe - Remix;2023-04-05;09:37:18;True;['Yng Lvcas', 'Peso Pluma'];La Bebe (Remix);2023-03-17;day;2;9;234352;90;True;./images/la_bebe_remix_yng_lvcas.jpg;2023-04-05
+Creepin' (with The Weeknd & 21 Savage);2023-04-05;09:37:18;True;['Metro Boomin', 'The Weeknd', '21 Savage'];HEROES & VILLAINS;2022-12-02;day;15;10;221520;96;True;./images/creepin_with_the_weeknd_21_savage_metro_boomin.jpg;2023-04-05
+Like Crazy;2023-04-05;09:37:18;False;['Jimin'];FACE;2023-03-24;day;6;11;212241;89;False;./images/like_crazy_jimin.jpg;2023-04-05
+Calm Down (with Selena Gomez);2023-04-05;09:37:18;True;['Rema', 'Selena Gomez'];Calm Down (with Selena Gomez);2022-08-25;day;1;12;239317;95;False;./images/calm_down_with_selena_gomez_rema.jpg;2023-04-05
+Yandel 150;2023-04-05;09:37:18;True;['Yandel', 'Feid'];Resistencia;2023-01-13;day;17;13;216148;89;True;./images/yandel_150_yandel.jpg;2023-04-05
+FLOWER;2023-04-05;09:37:18;False;['JISOO'];ME;2023-03-31;day;2;14;173134;80;False;./images/flower_jisoo.jpg;2023-04-05
+Shakira: Bzrp Music Sessions, Vol. 53;2023-04-05;09:37:18;True;['Bizarrap', 'Shakira'];Shakira: Bzrp Music Sessions, Vol. 53;2023-01-11;day;1;15;214945;97;False;./images/shakira_bzrp_music_sessions_vol_53_bizarrap.jpg;2023-04-05
+Anti-Hero;2023-04-05;09:37:18;False;['Taylor Swift'];Midnights;2022-10-21;day;13;16;200690;94;False;./images/antihero_taylor_swift.jpg;2023-04-05
+Unholy (feat. Kim Petras);2023-04-05;09:37:18;True;['Sam Smith', 'Kim Petras'];Gloria;2023-01-27;day;13;17;156943;86;False;./images/unholy_feat_kim_petras_sam_smith.jpg;2023-04-05
+Die For You;2023-04-05;09:37:18;False;['The Weeknd'];Starboy;2016-11-24;day;18;18;260253;90;False;./images/die_for_you_the_weeknd.jpg;2023-04-05
+I'm Good (Blue);2023-04-05;09:37:18;True;['David Guetta', 'Bebe Rexha'];I'm Good (Blue);2022-08-26;day;2;19;175238;95;True;./images/im_good_blue_david_guetta.jpg;2023-04-05
+Last Night;2023-04-05;09:37:18;False;['Morgan Wallen'];One Thing At A Time;2023-03-03;day;36;20;163854;87;True;./images/last_night_morgan_wallen.jpg;2023-04-05
+PRC;2023-04-05;09:37:18;True;['Peso Pluma', 'Natanael Cano'];PRC;2023-01-23;day;1;21;184066;93;True;./images/prc_peso_pluma.jpg;2023-04-05
+La Bachata;2023-04-05;09:37:18;False;['Manuel Turizo'];2000;2023-03-17;day;15;22;162637;82;False;./images/la_bachata_manuel_turizo.jpg;2023-04-05
+AMG;2023-04-05;09:37:18;True;['Natanael Cano', 'Peso Pluma', 'Gabito Ballesteros'];AMG;2022-11-24;day;1;23;174942;93;True;./images/amg_natanael_cano.jpg;2023-04-05
+Like Crazy (English Version);2023-04-05;09:37:18;False;['Jimin'];FACE;2023-03-24;day;6;24;212253;88;False;./images/like_crazy_english_version_jimin.jpg;2023-04-05
+Cupid - Twin Ver.;2023-04-05;09:37:18;False;['FIFTY FIFTY'];The Beginning: Cupid;2023-02-24;day;3;25;174253;71;False;./images/cupid_twin_ver_fifty_fifty.jpg;2023-04-05
+Here With Me;2023-04-05;09:37:18;False;['d4vd'];Here With Me;2022-09-22;day;1;26;242484;94;False;./images/here_with_me_d4vd.jpg;2023-04-05
+Hey Mor;2023-04-05;09:37:18;True;['Ozuna', 'Feid'];OzuTochi;2022-10-07;day;18;27;196600;91;False;./images/hey_mor_ozuna.jpg;2023-04-05
+Coco Chanel;2023-04-05;09:37:18;True;['Eladio Carrion', 'Bad Bunny'];3MEN2 KBRN;2023-03-17;day;18;28;208125;90;True;./images/coco_chanel_eladio_carrion.jpg;2023-04-05
+Until I Found You (with Em Beihold) - Em Beihold Version;2023-04-05;09:37:18;True;['Stephen Sanchez', 'Em Beihold'];Until I Found You (Em Beihold Version);2022-04-22;day;1;29;176440;93;False;./images/until_i_found_you_with_em_beihold_em_beihold_version_stephen_sanchez.jpg;2023-04-05
+Another Love;2023-04-05;09:37:18;False;['Tom Odell'];Long Way Down;2013-06-17;day;10;30;244360;62;True;./images/another_love_tom_odell.jpg;2023-04-05
+I Wanna Be Yours;2023-04-05;09:37:18;False;['Arctic Monkeys'];AM;2013-09-09;day;12;31;183956;92;False;./images/i_wanna_be_yours_arctic_monkeys.jpg;2023-04-05
+Starboy;2023-04-05;09:37:18;True;['The Weeknd', 'Daft Punk'];Starboy;2016-11-25;day;18;32;230453;92;True;./images/starboy_the_weeknd.jpg;2023-04-05
+I Ain't Worried;2023-04-05;09:37:18;False;['OneRepublic'];OneRepublic (Japan Paradise Tour Edition);2023-02-15;day;18;33;148120;52;False;./images/i_aint_worried_onerepublic.jpg;2023-04-05
+golden hour;2023-04-05;09:37:18;False;['JVKE'];this is what ____ feels like (Vol. 1-4);2022-09-23;day;12;34;209259;90;False;./images/golden_hour_jvke.jpg;2023-04-05
+Escapism.;2023-04-05;09:37:18;True;['RAYE', '070 Shake'];My 21st Century Blues;2023-02-03;day;15;35;272373;81;True;./images/escapism_raye.jpg;2023-04-05
+OMG;2023-04-05;09:37:18;False;['NewJeans'];NewJeans 'OMG';2023-01-02;day;2;36;212253;93;False;./images/omg_newjeans.jpg;2023-04-05
+El Azul;2023-04-05;09:37:18;True;['Junior H', 'Peso Pluma'];El Azul;2023-02-10;day;1;37;187225;89;True;./images/el_azul_junior_h.jpg;2023-04-05
+Quevedo: Bzrp Music Sessions, Vol. 52;2023-04-05;09:37:18;True;['Bizarrap', 'Quevedo'];Quevedo: Bzrp Music Sessions, Vol. 52;2022-07-06;day;1;38;198937;93;False;./images/quevedo_bzrp_music_sessions_vol_52_bizarrap.jpg;2023-04-05
+Mockingbird;2023-04-05;09:37:18;False;['Eminem'];Encore (Deluxe Version);2004-11-12;day;23;39;250760;91;True;./images/mockingbird_eminem.jpg;2023-04-05
+Players;2023-04-05;09:37:18;False;['Coi Leray'];Players;2022-11-30;day;1;40;139560;92;True;./images/players_coi_leray.jpg;2023-04-05
+Feliz Cumpleaños Ferxxo;2023-04-05;09:37:18;False;['Feid'];FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM;2022-09-14;day;15;41;155960;89;False;./images/feliz_cumpleaos_ferxxo_feid.jpg;2023-04-05
+Set Me Free Pt.2;2023-04-05;09:37:18;False;['Jimin'];Set Me Free Pt.2;2023-03-17;day;1;42;200929;89;True;./images/set_me_free_pt2_jimin.jpg;2023-04-05
+Rara Vez;2023-04-05;09:37:18;True;['Taiu', 'Milo j'];Rara Vez;2023-02-08;day;1;43;128677;90;False;./images/rara_vez_taiu.jpg;2023-04-05
+La Jumpa;2023-04-05;09:37:18;True;['Arcángel', 'Bad Bunny'];Sr. Santos;2022-12-01;day;18;44;255693;87;True;./images/la_jumpa_arcngel.jpg;2023-04-05
+ceilings;2023-04-05;09:37:18;False;['Lizzy McAlpine'];five seconds flat;2022-04-08;day;14;45;182887;91;False;./images/ceilings_lizzy_mcalpine.jpg;2023-04-05
+Snooze;2023-04-05;09:37:18;False;['SZA'];SOS;2022-12-09;day;23;46;201800;91;True;./images/snooze_sza.jpg;2023-04-05
+Bones;2023-04-05;09:37:18;False;['Imagine Dragons'];Mercury - Acts 1 & 2;2022-07-01;day;32;47;165264;86;False;./images/bones_imagine_dragons.jpg;2023-04-05
+All Of The Girls You Loved Before;2023-04-05;09:37:18;False;['Taylor Swift'];All Of The Girls You Loved Before;2019-08-23;day;1;48;221407;90;False;./images/all_of_the_girls_you_loved_before_taylor_swift.jpg;2023-04-05
+Eyes Closed;2023-04-05;09:37:18;False;['Ed Sheeran'];Eyes Closed (Piano Version);2023-03-23;day;2;49;194848;70;False;./images/eyes_closed_ed_sheeran.jpg;2023-04-05
+Arcángel: Bzrp Music Sessions, Vol. 54;2023-04-05;09:37:18;True;['Bizarrap', 'Arcángel'];Arcángel: Bzrp Music Sessions, Vol. 54;2023-03-22;day;1;50;223019;87;False;./images/arcngel_bzrp_music_sessions_vol_54_bizarrap.jpg;2023-04-05
