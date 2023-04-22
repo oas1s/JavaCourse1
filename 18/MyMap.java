@@ -26,7 +26,7 @@ public class MyMap<K extends Comparable<K>,V> implements Map<K,V> {
             return null;
         }
 
-        public V add(K key){
+        public V add(Tree<K,V> node){
             return null;
         }
     }
