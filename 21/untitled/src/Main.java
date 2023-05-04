@@ -5,7 +5,7 @@ public class Main {
         MyClass myClass = new MyClass();
         Class clazz = MyClass.class;
         Class clazz2 = myClass.getClass();
-//        Class clazz3 = ClassLoader.
+        Class clazz3 = Class.forName("MyClass");
 
         // constructors
         Constructor[] constructors =
