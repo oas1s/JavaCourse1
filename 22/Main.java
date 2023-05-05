@@ -1,5 +1,11 @@
+import lombok.SneakyThrows;
+
 public class Main {
+    @SneakyThrows
     public static void main(String[] args) {
-        System.out.println("somethig");
+        Animal animal =
+                new Animal(2,"Parrot");
+        System.out.println(CheckValueAnnotationValidator
+                .isValid(Animal.class,animal));
     }
 }
