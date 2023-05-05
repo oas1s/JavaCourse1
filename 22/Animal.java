@@ -7,8 +7,11 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Animal {
 
-    @CheckValue(ranges = {1,4})
     private int age;
 
+    @CheckValue(ranges = "Boris")
     private String name;
+
+    @CheckValue(ranges = "White")
+    private String color;
 }

@@ -5,7 +5,7 @@ import java.lang.annotation.*;
 public @interface CheckValue {
 //    String value();
 //    enum Status {CONFIRMED,FIXED}
-    int[] ranges();
+    String[] ranges();
 //    String something() default "something";
 //    Class innerClass() default Void.class;
 //    int i() default 1;
