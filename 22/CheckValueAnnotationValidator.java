@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class CheckValueAnnotationValidator {
 
@@ -34,5 +35,20 @@ public class CheckValueAnnotationValidator {
 //            if (!strings.contains(value)) return false;
 //        }
 //        return true;
+//    }
+
+
+    // версия в 1 строчку
+
+//    public static boolean isValid(Class clazz, Object object) throws Exception {
+//        return Stream.of(clazz.getDeclaredFields())
+//                .filter(field -> Arrays.stream(field.getAnnotations()).anyMatch(a -> a.annotationType().equals(CheckValue.class))).toList().stream().allMatch(field -> {
+//                    try {
+//                        field.setAccessible(true);
+//                        return List.of(field.getAnnotation(CheckValue.class).ranges()).contains(field.get(object));
+//                    } catch (IllegalAccessException e) {
+//                        throw new RuntimeException(e);
+//                    }
+//                });
 //    }
 }
