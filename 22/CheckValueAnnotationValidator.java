@@ -42,7 +42,10 @@ public class CheckValueAnnotationValidator {
 
 //    public static boolean isValid(Class clazz, Object object) throws Exception {
 //        return Stream.of(clazz.getDeclaredFields())
-//                .filter(field -> Arrays.stream(field.getAnnotations()).anyMatch(a -> a.annotationType().equals(CheckValue.class))).toList().stream().allMatch(field -> {
+//                .filter(field -> Arrays.stream(field.getAnnotations()).anyMatch(a -> a.annotationType().equals(CheckValue.class)))
+//                .toList()
+//                .stream()
+//                .allMatch(field -> {
 //                    try {
 //                        field.setAccessible(true);
 //                        return List.of(field.getAnnotation(CheckValue.class).ranges()).contains(field.get(object));
