@@ -1,0 +1,9 @@
+1 Azat follows 2 Fedor and 3 Artem and 4 Ilshat
+2 Fedor follows 3 Artem and 6 Aida and 7 Varya
+3 Artem follows 5 Vadim and 6 Aida
+4 Ilshat follows 2 Fedor and 3 Artem
+5 Vadim follows 8 Kirill and 9 Vasya
+6 Aida follows 3 Artem and 7 Varya
+7 Varya follows 1 Azat and 2 Fedor and 3 Artem and 4 Ilshat
+8 Kirill follows 2 Fedor and 3 Artem and 9 Vasya
+9 Vasya follows 3 Artem and 8 Kirill
