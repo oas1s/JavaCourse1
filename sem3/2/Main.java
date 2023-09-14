@@ -21,7 +21,26 @@ public class Main {
                 }
             }
 
-            out.write();
+            out.write("HTTP/1.1 200 OK\n" +
+                    "Date: Wed, 11 Feb 2009 11:20:59 GMT\n" +
+                    "Server: Apache\n" +
+                    "X-Powered-By: PHP/5.2.4-2ubuntu5wm1\n" +
+                    "Last-Modified: Wed, 11 Feb 2009 11:20:59 GMT\n" +
+                    "Content-Language: ru\n" +
+                    "Content-Type: text/html; charset=utf-8\n" +
+                    "Content-Length: 140\n" +
+                    "Connection: close\n" +
+                    "\n" +
+                    "<!DOCTYPE html>\n" +
+                    "<html lang=\"en\">\n" +
+                    "<head>\n" +
+                    "    <meta charset=\"UTF-8\">\n" +
+                    "    <title>Title</title>\n" +
+                    "</head>\n" +
+                    "<body>\n" +
+                    "<h1>Hi there</h1>\n" +
+                    "</body>\n" +
+                    "</html>\n");
 
             out.close();
             in.close();
