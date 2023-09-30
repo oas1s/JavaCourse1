@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         version="2.5"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+<display-name>Archetype Created Web Application</display-name>
+<servlet>
+    <servlet-name>name-servlet</servlet-name>
+    <servlet-class>ru.itis.MyServlet</servlet-class>
+</servlet>
+    <servlet-mapping>
+        <servlet-name>name-servlet</servlet-name>
+        <url-pattern>/name</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>hi-servlet</servlet-name>
+        <servlet-class>ru.itis.MyServlet2</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>hi-servlet</servlet-name>
+        <url-pattern>/hi</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>redirect-servlet</servlet-name>
+        <servlet-class>ru.itis.NewServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>redirect-servlet</servlet-name>
+        <url-pattern>/redirect</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>forward-servlet</servlet-name>
+        <servlet-class>ru.itis.ForwardServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>forward-servlet</servlet-name>
+        <url-pattern>/forward</url-pattern>
+    </servlet-mapping>
+</web-app>
