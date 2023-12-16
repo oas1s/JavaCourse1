@@ -71,6 +71,7 @@ public class HelloController {
                 return null;
             }
         };
+        new Thread(task).start();
 
         //Update JavaFX UI from another thread
         System.out.println("done");
