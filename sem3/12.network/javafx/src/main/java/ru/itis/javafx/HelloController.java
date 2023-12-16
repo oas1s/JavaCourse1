@@ -31,22 +31,25 @@ public class HelloController {
     private PrintWriter printWriter;
     private BufferedReader bufferedReader;
 
-    private boolean firstMove = true;
-
     public HelloController() throws IOException {
         printWriter = new PrintWriter(socket.getOutputStream(), true);
         bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
         mySymbol = bufferedReader.readLine();
+        if (mySymbol.equals("O")) {
+            Task<Void> task = new Task<Void>() {
+                @Override
+                protected Void call() throws Exception {
+                    setOpponentMove();
+                    return null;
+                }
+            };
+            new Thread(task).start();
+        }
     }
 
     @FXML
     @SneakyThrows
     void onBtnClick(ActionEvent event) {
-        if (firstMove && mySymbol.equals("O")) {
-            setOpponentMove();
-            firstMove = false;
-        }
-
         Button button = (Button) event.getSource();
             button.setText(mySymbol);
 
@@ -85,9 +88,22 @@ public class HelloController {
     private void setOpponentMove() {
         String message = bufferedReader.readLine();
         if (message.startsWith("Winner")) {
-            Alert a = new Alert(Alert.AlertType.CONFIRMATION);
-            a.setContentText("YOU WON");
-            a.show();
+            Platform.runLater(() -> {
+                Integer coll = Integer.valueOf(message.split(" ")[2]);
+                Integer roww = Integer.valueOf(message.split(" ")[3]);
+                gridPane.getChildren().forEach(b -> {
+                    Integer column1 = GridPane.getColumnIndex(b) == null ? 0 : GridPane.getColumnIndex(b);
+                    Integer row1 = GridPane.getRowIndex(b) == null ? 0 : GridPane.getRowIndex(b);
+                    if ((coll.equals(column1)) && (roww.equals(row1)))
+                        Platform.runLater(() ->{
+                            if (((Button) b).getText() == null || ((Button) b).getText().isEmpty())
+                            ((Button) b).setText(mySymbol.equals("X") ? "O" : "X");
+                        });
+                });
+                Alert a = new Alert(Alert.AlertType.CONFIRMATION);
+                a.setContentText("Player " + message.split(" ")[1] +" won");
+                a.show();
+            });
         } else {
             Integer oppColumn = Integer.parseInt(message.split(" ")[0]);
             Integer oppRow = Integer.parseInt(message.split(" ")[1]);

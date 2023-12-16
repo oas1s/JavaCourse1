@@ -32,7 +32,7 @@ public class Server {
                 Integer row = Integer.valueOf(message.split(" ")[1]);
                 symbols[column][row] = 'X';
                 if (isWinnerDefined()) {
-                    String winnerMessage = "Winner is " + "X";
+                    String winnerMessage = "Winner X " + column + " " + row;
                     map.get('O').sendMessage(winnerMessage);
                     map.get('X').sendMessage(winnerMessage);
                     break;
@@ -47,7 +47,7 @@ public class Server {
                 Integer row = Integer.valueOf(message.split(" ")[1]);
                 symbols[column][row] = 'O';
                 if (isWinnerDefined()) {
-                    String winnerMessage = "Winner is " + "O";
+                    String winnerMessage = "Winner O " + column + " " + row;
                     map.get('X').sendMessage(winnerMessage);
                     map.get('O').sendMessage(winnerMessage);
                     break;
