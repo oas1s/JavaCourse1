@@ -1,4 +1,4 @@
-package ru.itis;//package org.example;
+//package ru.itis;
 //
 //public class MinusOperationPerformer implements OperationPerformer{
 //    @Override

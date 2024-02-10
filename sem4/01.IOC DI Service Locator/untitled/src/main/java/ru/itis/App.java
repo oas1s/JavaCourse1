@@ -22,7 +22,7 @@ public class App
     @SneakyThrows
     public static void dependencyInjectionContainerStart(){
         //getting all classes in our project
-        Reflections reflections = new Reflections("org.example", new SubTypesScanner(false));
+        Reflections reflections = new Reflections("ru.itis", new SubTypesScanner(false));
         Set<Class<?>> allClasses =
                 reflections.getSubTypesOf(Object.class);
 
