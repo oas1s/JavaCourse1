@@ -15,7 +15,7 @@ public interface PetRepository extends JpaRepository<Pet,Long> {
     @Query("SELECT pet FROM Pet pet inner join pet.toys toy where toy.id = :toyId")
     List<Pet> findAllBy(@Param("toyId") Long toyId);
 
-    @Query(nativeQuery = false, value = "select * from pet where user_id =:userId")
+    @Query(nativeQuery = true, value = "select * from pet where user_id =:userId")
     List<Pet> findAllByUserId(Long userId);
 
     List<Pet> findAllByUser_Id(Long userId);
