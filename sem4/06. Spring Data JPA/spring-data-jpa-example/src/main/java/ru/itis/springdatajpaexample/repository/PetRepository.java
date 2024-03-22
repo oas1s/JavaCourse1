@@ -13,7 +13,7 @@ public interface PetRepository extends JpaRepository<Pet,Long> {
     List<Pet> findAllByToysContains(Toy toy);
 
     @Query("SELECT pet FROM Pet pet inner join pet.toys toy where toy.id = :toyId")
-    List<Pet> findAllBy(@Param("toyId") Long toyId);
+    List<Pet> findAllByToyId(@Param("toyId") Long toyId);
 
     @Query(nativeQuery = true, value = "select * from pet where user_id =:userId")
     List<Pet> findAllByUserId(Long userId);
