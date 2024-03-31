@@ -6,6 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import ru.itis.springdemo.entity.Pet;
 
+import java.util.List;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -18,10 +20,13 @@ public class PetDto {
 
     private Integer age;
 
+    private List<ToyDto> toys;
+
     public static PetDto fromEntity(Pet pet){
         return PetDto.builder()
                 .age(pet.getAge())
                 .name(pet.getName())
+                .toys(pet.getToys().stream().map(ToyDto::fromEntity).toList())
                 .id(pet.getId()).build();
     }
 }
