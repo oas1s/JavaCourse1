@@ -7,6 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.List;
+import java.util.Set;
 
 @Data
 @AllArgsConstructor
@@ -31,5 +32,5 @@ public class Pet {
     @JoinTable(name = "pet_toys",
         joinColumns = {@JoinColumn(name = "pet_id")},
         inverseJoinColumns = {@JoinColumn(name = "toy_id")})
-    private List<Toy> toys;
+    private Set<Toy> toys;
 }

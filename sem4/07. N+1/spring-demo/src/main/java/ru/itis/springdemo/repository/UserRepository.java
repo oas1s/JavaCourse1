@@ -16,6 +16,6 @@ public interface UserRepository extends JpaRepository<User,Long> {
                                          @Param("toyName") String toyName);
 
     @Override
-    @EntityGraph(type = EntityGraph.EntityGraphType.FETCH, attributePaths = "pets")
+    @EntityGraph(attributePaths = {"pets","pets.toys"})
     List<User> findAll();
 }
