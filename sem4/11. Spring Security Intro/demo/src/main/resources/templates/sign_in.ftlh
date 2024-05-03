@@ -24,6 +24,7 @@
         <fieldset>
             <label><span> </span><input type="submit" value="Submit"/></label>
         </fieldset>
+        <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}">
     </form>
 </div>
 
